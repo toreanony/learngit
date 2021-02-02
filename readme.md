@@ -1,6 +1,1 @@
-git is a version control tool
-git is a free software distributed under the GPL
-- hhhhh
-vivien vivien vivien
-krisztina
-szanto
+just try to use git, and test it's remote stoarge
